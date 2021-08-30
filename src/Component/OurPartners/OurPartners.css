@@ -1,0 +1,24 @@
+/* initialisation */
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+/* marquee */
+.marquee {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+
+  margin: 10% 1%;
+}
+.photo {
+  display: flex;
+}
+.photo img {
+  margin: 0% 0.5%;
+  height: 45px;
+  width: 70px;
+  display: flex;
+  flex-wrap: nowrap;
+}
